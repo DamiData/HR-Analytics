@@ -22,17 +22,12 @@ The HR Analytics project aims to leverage data analysis techniques to optimize t
 
 2. **Data Visualization:**
    - Plotting a correlation map for all numeric variables, including Overtime, Marital Status, Job Role, Gender, Education Field, Department, Business Travel, Relation between Overtime and Age, Total Working Year, Education Level, Number of Companies Worked, and Distance from Home.
+  
+
+   
 ## Navigation in Analysis
 
-### Overview:
-
-Navigation plays a crucial role in guiding users through the analysis and enabling them to interact with the data effectively. In this project, we have implemented navigation techniques to enhance the user experience and facilitate seamless exploration of the insights derived from the data.
-
-### Techniques Used:
-
-
 **Button Navigation:** Interactive buttons have been added to allow  to navigate between different sections or views within a page. These buttons provide a more intuitive way to move through the analysis and access relevant content.
-
 
 
 ### Conclusion:
