@@ -30,10 +30,6 @@ The HR Analytics project aims to leverage data analysis techniques to optimize t
 **Button Navigation:** Interactive buttons have been added to allow  to navigate between different sections or views within a page. These buttons provide a more intuitive way to move through the analysis and access relevant content.
 
 
-### Conclusion:
-
-Incorporating navigation techniques into the analysis enhances usability and interactivity, ultimately leading to a more engaging and effective data exploration experience for users. By leveraging these techniques, we aim to empower users to derive meaningful insights from the data and make informed decisions.
-
 
 ### Conclusion:
 
