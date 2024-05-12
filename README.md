@@ -18,7 +18,7 @@ The HR Analytics project aims to leverage data analysis techniques to optimize t
    - Renaming columns for clarity.
    - Dropping duplicate rows.
    - Cleaning individual columns for consistency.
-   - Removing NaN values from the dataset.
+   - Removing Null values from the dataset.
 
 2. **Data Visualization:**
    - Plotting a correlation map for all numeric variables, including Overtime, Marital Status, Job Role, Gender, Education Field, Department, Business Travel, Relation between Overtime and Age, Total Working Year, Education Level, Number of Companies Worked, and Distance from Home.
