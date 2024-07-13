@@ -9,6 +9,7 @@ The HR Analytics project aims to leverage data analysis techniques to optimize t
 - **Power BI:** Utilized for data visualization and analysis.
    - Download : [Power BI website](https://powerbi.microsoft.com/).
 
+![Hr Project ](https://github.com/user-attachments/assets/39805a1c-1693-4f0f-b214-59e6ad55a18d)
 
 
 ### Exploratory Data Analysis (EDA) Process:
